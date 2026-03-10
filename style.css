@@ -146,7 +146,7 @@ body {
   justify-content: center;  
 }
 img {
-  width: 200px;
+  width: 300px;
   border: 2px solid white;
   border-radius: 2px;
 }
@@ -187,4 +187,5 @@ img {
 }
 #web a:hover {
   background: green;
+
 }
