@@ -171,6 +171,7 @@ img {
   border: 2px solid blue;
   border-radius: 10;
   margin-bottom: 10px;
+  width: 200px;
 }
 #web h3 {
   grid-column: 1 / -1;
@@ -189,4 +190,5 @@ img {
   background: green;
 
 }
+
 
